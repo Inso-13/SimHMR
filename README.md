@@ -89,11 +89,12 @@ Please organise all datasets under the `data/` directory following the MMHuman3D
 If you find this work useful, please cite:
 
 ```bibtex
-@article{simhmr2024,
-  title={SimHMR: Simple Human Mesh Recovery},
-  author={Your Name},
-  journal={arXiv preprint arXiv:xxxx.xxxxx},
-  year={2024}
+@inproceedings{huang2023simhmr,
+  title={Simhmr: A simple query-based framework for parameterized human mesh reconstruction},
+  author={Huang, Zihao and Shi, Min and Liu, Chengxin and Xian, Ke and Cao, Zhiguo},
+  booktitle={Proceedings of the 31st ACM International Conference on Multimedia},
+  pages={6918--6927},
+  year={2023}
 }
 ```
 
