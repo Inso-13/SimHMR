@@ -16,7 +16,7 @@ SimHMR is a simple and effective framework for 3D human mesh recovery from singl
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/simhmr.git
+git clone https://github.com/Inso-13/simhmr.git
 cd simhmr
 ```
 
@@ -35,7 +35,7 @@ pip install -e .
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/simhmr.git
+git clone https://github.com//Inso-13/simhmr.git
 cd simhmr
 ```
 
